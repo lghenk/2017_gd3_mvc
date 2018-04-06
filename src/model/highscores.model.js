@@ -20,8 +20,6 @@ class HighscoreModel extends EventEmitter {
     get highscores() {
         return this._highscores;
     }
-
-
 }
 
 export default HighscoreModel;

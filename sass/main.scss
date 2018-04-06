@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    overflow: hidden;
+}
+
+body {
+    background-color: grey;
+    
+    .alert {
+        background-color: red;
+    }
+
+    canvas {
+        background-color: blue;
+        left: 0px;
+        top: 0px;
+    }
+}
